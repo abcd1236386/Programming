@@ -20,7 +20,10 @@ Description:'"$2"'
 #include<set>
 #include<string>
 #include<cstring>
+#include"../struct.h"
 using namespace std;'"
+
+
 int main(){
 
 }
