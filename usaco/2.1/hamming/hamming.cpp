@@ -110,13 +110,13 @@ int main(){
     dfs(0,0,1<<B);
     for(int i=0;i<N;i++)
     {
-        cout<<path[i];
+        fout<<path[i];
         if(i==N-1)
-            cout<<endl;
+            fout<<endl;
         else if((i+1)%10==0)
-            cout<<endl;
+            fout<<endl;
         else
-            cout<<' ';
+            fout<<' ';
     }
 }
 
