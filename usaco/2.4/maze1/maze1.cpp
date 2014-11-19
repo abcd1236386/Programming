@@ -1,0 +1,110 @@
+/*
+ID:haoziyi1
+PROG:maze1
+LANG:C++
+*/
+#include<iostream>
+#include<fstream>
+#include<vector>
+#include<algorithm>
+#include<map>
+#include<set>
+#include<string>
+#include<cstring>
+using namespace std;
+ifstream fin("maze1.in");
+ofstream fout("maze1.out");
+int W,H;
+vector<int> neig[40*102];
+int v[2][40*102];
+int getID(int i,int j)
+{
+    return i*(W+2)+j;
+}
+int dijkstra(int s,int idx)//return the maxn shorted path
+{
+    
+    bool vist[40*102]={0};
+    
+    v[idx][s]=0;
+    vist[s]=1;
+    bool fd=1;
+    while(fd){
+        for(int i=0;i<neig[s].size();i++)
+        {
+            if(v[idx][neig[s][i]]==-1||v[idx][neig[s][i]]>v[idx][s]+1)
+            {
+                v[idx][neig[s][i]]=v[idx][s]+1;
+            }
+        }
+        //find next min
+        fd=0;
+        s=-1;
+        for(int i=0;i<40*102;i++)
+        {
+            if(!vist[i]&&v[idx][i]!=-1)
+            {
+                fd=1;
+                if(s==-1||v[idx][s]>v[idx][i])
+                    s=i;
+            }
+        }
+        if(fd)
+            vist[s]=1;
+    }//while
+}
+int main(){
+    fin>>W>>H;
+    int m,n;
+    int exit[2];
+    int id=0;
+    for(int i=0;i<2*H+1;i++){
+        for(int j=0;j<W*2+1;j++){
+            char ch;
+            ch=fin.get();
+            if(ch=='\n')
+                ch=fin.get();
+            if(i&1){//left-right
+                m=(i+1)/2;
+                if(j%2==0&&ch==' ')
+                {
+                    neig[getID(m,j/2)].push_back(getID(m,j/2+1));
+                    neig[getID(m,j/2+1)].push_back(getID(m,j/2));
+                    if(j==0)
+                    {
+                        exit[id++]=getID(m,j/2);
+
+                    }
+                    else if(j==W*2)
+                        exit[id++]=getID(m,j/2+1);
+                }
+            }
+            else// up-down
+            {
+                n=(j+1)/2;
+                if(j%2!=0&&ch==' ')
+                {
+                    neig[getID(i/2,n)].push_back(getID(i/2+1,n));
+                    neig[getID(i/2+1,n)].push_back(getID(i/2,n));
+                    if(i==0)
+                        exit[id++]=getID(i/2,n);
+                    else if(i==H*2)
+                        exit[id++]=getID(i/2+1,n);
+                }
+            }
+            
+         }
+    }
+    //to calculate.
+    memset(v,-1,sizeof(v));
+    dijkstra(exit[0],0);
+    dijkstra(exit[1],1);
+    int mx=-1;    
+    for(int i=0;i<40*102;i++)
+    {
+       if(mx<min(v[0][i],v[1][i]))
+          mx=min(v[0][i],v[1][i]);
+	}
+     fout<<mx<<endl;
+}
+
