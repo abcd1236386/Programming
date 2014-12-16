@@ -1,0 +1,124 @@
+/*
+ID:haoziyi1
+PROG:ratios
+LANG:C++
+*/
+#include<queue>
+#include<iostream>
+#include<fstream>
+#include<vector>
+#include<algorithm>
+#include<map>
+#include<set>
+#include<string>
+#include<cstring>
+using namespace std;
+ifstream fin("ratios.in");
+ofstream fout("ratios.out");
+int fd[4][3];
+int x,y,z,w;
+struct st{
+    int a,b,c;
+    bool operator <(const st& s)const {
+       if(a!=s.a)
+           return a<s.a;
+       if(b!=s.b)
+           return b<s.b;
+       return c<s.c;
+    }
+    st(int i,int j,int k){
+        a=i;
+        b=j;
+        c=k;
+    }
+};
+void check(set<st> &s,queue<st> &q,int a,int b,int c){
+    if(a>=100||b>=100||c>=100)
+        return;
+    st t(a,b,c);
+    if(s.find(t)==s.end())
+    {
+        s.insert(t);
+        q.push(t);
+    }
+}
+bool bfs(){
+    queue<st> q;
+    q.push(st(0,0,1));
+	q.push(st(0,1,0));
+	q.push(st(1,0,0));
+    set<st> S;
+    while(!q.empty()){
+        st t=q.front();q.pop();
+    int sa,sb,sc,a,b,c;
+    a=t.a;
+    b=t.b;
+    c=t.c;
+    sa=a*fd[0][0]+b*fd[1][0]+c*fd[2][0];
+    sb=a*fd[0][1]+b*fd[1][1]+c*fd[2][1];
+    sc=a*fd[0][2]+b*fd[1][2]+c*fd[2][2];
+    if(sa*fd[3][1]==sb*fd[3][0]&&sa*fd[3][2]==sc*fd[3][0]){
+        x=a;
+        y=b;
+        z=c;
+        if(fd[3][0]!=0)
+		w=sa/fd[3][0];
+	else if(fd[3][1]!=0)
+		w=sb/fd[3][1];
+	else w=sc/fd[3][2];
+        return true;
+    }
+    check(S,q,a+1,b,c);
+    check(S,q,a,b+1,c);
+    check(S,q,a,b,c+1);   
+    }//while.
+    return false;
+}
+bool search()
+{
+    int mi=300;
+    for(int i=0;i<100;i++){
+	for(int j=0;j<100;j++){
+		for(int k=0;k<100;k++){
+			if(i==0&&j==0&&k==0)
+				continue;
+				int a=i,b=j,c=k;		
+			    int sa,sb,sc;
+			    sa=a*fd[0][0]+b*fd[1][0]+c*fd[2][0];
+			    sb=a*fd[0][1]+b*fd[1][1]+c*fd[2][1];
+			    sc=a*fd[0][2]+b*fd[1][2]+c*fd[2][2];
+			   bool ba,bb,bc;
+			   ba=fd[3][0]==0?sa==0:sa%fd[3][0]==0;
+			bb=fd[3][1]==0?sb==0:sb%fd[3][1]==0;
+			bc=fd[3][2]==0?sc==0:sc%fd[3][2]==0;
+			int qa,qb,qc;
+			qa=fd[3][0]==0?1:sa/fd[3][0];
+			qb=fd[3][1]==0?qa:sb/fd[3][1];
+			qc=fd[3][2]==0?qa:sc/fd[3][2];
+			    if(ba&&bb&&bc&&qa==qb&&qb==qc&&mi>a+b+c){
+				mi=a+b+c;
+				x=a;
+				y=b;
+				z=c;
+				if(fd[3][0]!=0)
+					w=sa/fd[3][0];
+				else if(fd[3][1]!=0)
+					w=sb/fd[3][1];
+				else w=sc/fd[3][2];
+			    }
+		}
+	}
+    }
+    return mi!=300;
+}
+int main(){
+    fin>>fd[3][0]>>fd[3][1]>>fd[3][2];
+    for(int i=0;i<3;i++){
+        fin>>fd[i][0]>>fd[i][1]>>fd[i][2];
+    }
+    if(search())
+        fout<<x<<' '<<y<<' '<<z<<' '<<w<<endl;
+    else
+        fout<<"NONE\n";
+}
+

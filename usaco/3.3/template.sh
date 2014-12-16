@@ -18,6 +18,8 @@ LANG:C++
 #include<fstream>
 #include<vector>
 #include<algorithm>
+#include<queue>
+#include<stack>
 #include<map>
 #include<set>
 #include<string>

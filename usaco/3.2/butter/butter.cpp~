@@ -1,0 +1,162 @@
+/*
+ID:haoziyi1
+PROG:butter
+LANG:C++
+*/
+#include<iostream>
+#include<fstream>
+#include<vector>
+#include<algorithm>
+#include<map>
+#include<set>
+#include<string>
+#include<cstring>
+using namespace std;
+ifstream fin("butter.in");
+ofstream fout("butter.out");
+struct nd{
+    int id;
+    int val;
+    operator int (){
+        return val;
+    }
+    nd & operator=(int x)
+    {
+        val=x;
+    }
+};
+struct heap{
+    nd buf[1000];
+    int size;
+    heap(){
+        size=0;
+    }
+    int modify(int i,int x)//
+    {
+        //change buf[i] to x;
+        if(buf[i]<x){
+            buf[i]=x;
+            return fixdown(i);
+        }
+        else{
+            buf[i]=x;
+            return fixup(i);
+        }
+    }
+    int fixup(int i){
+        nd t=buf[i];
+        while(i>1&&t<buf[i/2])
+        {
+            buf[i]=buf[i/2];
+            i/=2;
+        }
+        buf[i]=t;
+        return i;
+    }
+    int fixdown(int i){
+        nd t=buf[i];
+        int c=i*2;
+        while(c<=size){
+        if(c+1<=size&&buf[c]>buf[c+1])
+            c++;
+        if(t<=buf[c])
+            break;
+        buf[i]=buf[c];
+        i=c;
+        c=i*2;
+        }
+        buf[i]=t;
+        return i;
+    }
+    nd pop(){
+        nd t=buf[1];
+        buf[1]=buf[size];
+        size--;
+        fixdown(1);
+        return t;
+    }
+    int push(int id,int x){
+        ++size;
+        buf[size].id=id;
+        buf[size].val=x;
+        return fixup(size);
+    }
+};
+struct modifyheap{
+    heap hp;
+    map<int,int> mp;
+    void set(int id,int x){
+        if(mp.find(id)==mp.end()){
+            mp[id]=hp.push(id,x);
+        }
+        else{
+            mp[id]=hp.modify(mp[id],x);
+        }
+    }
+    nd getmin(){
+        return hp.pop();
+    }
+    bool empty(){
+        return hp.size==0;
+    }
+};
+int path[800+1][800+1];
+int cows[801]={0};
+int dist[801];
+vector<int> nei[801];
+int dijkstra(int s)
+{
+    memset(dist,-1,sizeof(dist));
+    dist[s]=0;
+    modifyheap mh;
+    mh.set(s,0);
+    while(!mh.empty()){
+        nd t=mh.getmin();
+        for(int i=0;i<nei[t.id].size();i++){
+            int j=nei[t.id][i];
+            if(dist[j]==-1||dist[j]>t.val+path[t.id][j]){
+                dist[j]=t.val+path[t.id][j];
+                mh.set(j,dist[j]);
+            }
+        }
+    }
+    int t=0;
+    for(int i=0;i<801;i++){
+        if(dist[i]!=-1)
+            t+=dist[i]*cows[i];
+    }
+    return t;
+}
+int main(){
+   int N,P,C;
+   fin>>N>>P>>C;
+   for(int i=0;i<N;i++)
+   {
+       int c;fin>>c;
+       cows[c]++;
+   }
+   memset(path,-1,sizeof(path));
+   for(int i=1;i<=P;i++){
+       path[i][i]=0;
+   }
+   for(int i=0;i<C;i++)
+   {
+       int a,b,c;
+       fin>>a>>b>>c;
+       path[a][b]=path[b][a]=c;
+	nei[a].push_back(b);
+	   nei[b].push_back(a);
+   }
+   //floyd, D(i,j,k) means from i to j ,use only node (1..k) the min paht.
+   //so D(i,j,k)=min(D(i,k,k-1)+D(k,j,k-1),D(i,j,k-1));
+   //we check all the node to find a min
+   int mi=-1;
+   for(int i=1;i<=P;i++){
+       int t=dijkstra(i);
+       if(mi==-1||mi>t)
+           mi=t;
+   }
+   fout<<mi<<endl;
+   cout<<mi<<endl;
+}
+
