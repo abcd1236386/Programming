@@ -1,0 +1,7 @@
+prob1:
+m people have 5 cent ,n people have 10 cent , for tickets can be exchange or not.
+abstract: for a sequence like aabbabb. for each letter b have sum(a)>=sum(b)before it.
+prob2:
+for n floors of building and m eggs ,find the minimum throws of worst case.
+extented from 100 building and 2 eggs.
+
