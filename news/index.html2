@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=1" />
+    <title>IT新闻 - 博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="http://static.cnblogs.com/favicon.ico" />
+    <link href="/bundles/news.css?v=JvdlGwnJlw9DEE8xvN8D5KVYDA3xr86n4EWkU4mfyBk1" rel="stylesheet"/>
+
+    <script type="text/javascript" src="http://common.cnblogs.com/script/jquery.js"></script>
+    <script src="/bundles/news.js?v=iW6KZ0Y4uvHQTNK9HauNHdMbhdMwWjutJH0f4MbVDyY1"></script>
+
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap">
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="http://www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="http://www.cnblogs.com"><img src="/images/logo.gif" alt="logo" /></a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <!-- news_E1 -->
+                        <div id='div-gpt-ad-1346331527896-0' style='width:728px; height:90px;'>
+                            <script type='text/javascript'>
+                                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1346331527896-0'); });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="http://space.cnblogs.com/forum/public">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;"><a href="http://www.cnblogs.com">首页</a></li>
+                    <li>
+                        <a href="http://home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="http://q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="http://home.cnblogs.com/ing/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="http://home.cnblogs.com/wz/">网摘</a>
+                    </li>
+                    <li>
+                        <a href="http://job.cnblogs.com">招聘</a>
+                    </li>
+                    <li>
+                        <a href="http://kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+            
+        </div>
+        
+
+<div id="sideleft">
+    <div id="guide">
+    </div>
+    <div id="navcontainer" class="floatright" style="padding-top: 1px;">
+        <ul id="navlist">
+            <li><a href="/" class="current">最新发布</a></li>
+            <li><a href="/n/recommend">推荐新闻</a></li>
+            <li><a href="/n/digg">热门新闻</a></li>
+            <li><a href="/n/comment">新闻评论</a></li>
+        </ul>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_516567">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516567,'agree')">
+                        <span id="digg_num_516567" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516567" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516567/" target="_blank">酷派360合资公司将推新手机ROM</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_133.htm"><img src="http://images.cnitblog.com/news_topic/ec6c7e9e.jpg" class="topic_img" alt=""/></a>
+                        酷派大神总裁祝芳浩对外透露，360 和酷派合资公司将坚持双品牌运作。祝芳浩表示，合资公司将保留大神品牌，主要面向中低端产品，而年内推出的新品牌主要面向中高端市场。2014 年 12 月 16 日，360 宣布向酷派投资 4.0905 亿美元现金成立合资公司，360 持股占比 ...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516567#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">4 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%85%B7%E6%B4%BE/" class="gray">酷派</a> <a href="/n/tag/360/" class="gray">360</a> </span>
+                        发布于 <span class="gray">2015-03-10 17:33</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516566">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516566,'agree')">
+                        <span id="digg_num_516566" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516566" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516566/" target="_blank">又一家IT企业逃离！APM厂商Compuware败退中国</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        者朋友是国内一家 SaaS 公司的 HR，年前突然发现，邮箱里竞争对手 &mdash; 全球最大应用性能管理（APM）服务供应商之一的 Compuware 的员工的简历突然猛增，仔细一打听，原来 Compuware 突然宣布退出中国市场，100 余名员工将在 2015 年底基本裁完，包括多个 V...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516566#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">44 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Compuware/" class="gray">Compuware</a> </span>
+                        发布于 <span class="gray">2015-03-10 17:27</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516565">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516565,'agree')">
+                        <span id="digg_num_516565" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516565" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516565/" target="_blank">把这20条从你的简历里删掉</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        图片来源：MATTHEW_HIRSCH要给未来雇主留下一个良好印象，简历可能是你唯一一次机会。这个机会通常只会持续不超过两分钟，所以一份好的简历至关重要。好的简历可以使你得到面试的机会，差的会让你与好工作失之交臂。简历除了要有整洁的排版、一语中的的内容，还需要注意什么时候该把...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516565#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">121 人浏览</span>
+                        
+                        发布于 <span class="gray">2015-03-10 17:24</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516564">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516564,'agree')">
+                        <span id="digg_num_516564" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516564" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516564/" target="_blank">贾跃亭：乐视今年推全员持股 超级手机很快发布</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_316.htm"><img src="http://images.cnitblog.com/news_topic/letv.gif" class="topic_img" alt=""/></a>
+                        乐视近日召开公司&ldquo;2015 年度战略沟通会&rdquo;，乐视 CEO 贾跃亭表示，乐视超级手机即将发布，并打造手机生态，此外，贾跃亭还透露，乐视今年将推进全员持股，并推行合伙人计划进行股权激励。贾跃亭在演讲中声称，超级手机要在运营模式、定价模式和商业模式上颠覆手机行业，...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516564#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">70 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%B9%90%E8%A7%86/" class="gray">乐视</a> </span>
+                        发布于 <span class="gray">2015-03-10 17:19</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516561">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516561,'agree')">
+                        <span id="digg_num_516561" class="diggnum">4</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516561" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516561/" target="_blank">为了给失聪的小伙子一个惊喜，整个小镇的居民都学会了手语</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_104.htm"><img src="http://images.cnitblog.com/news_topic/design.png" class="topic_img" alt=""/></a>
+                        //广告也可以这么戳中泪点。Muaharrem 是一位来自土耳其伊斯坦布尔的失聪小伙。他的妹妹 Ozlem 最近和一个剧组联手，给了他一个大大的惊喜。在开始故事前，要声明这其实是 Leo Burnett 广告公司和三星公司组织的一个颇有噱头的广告活动。（不过，看到最后你就知道...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516561#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">456 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%B9%BF%E5%91%8A/" class="gray">广告</a> </span>
+                        发布于 <span class="gray">2015-03-10 17:15</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516562">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516562,'agree')">
+                        <span id="digg_num_516562" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516562" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516562/" target="_blank">苹果也开源，看看医疗人员如何通过ResearchKit收集用户的数据</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="http://images.cnitblog.com/news_topic/apple.png" class="topic_img" alt=""/></a>
+                        除了新 MacBook和Apple Watch，苹果在昨晚&ldquo;新春发布会&rdquo;上还有惊喜之举，针对随 iOS 8 内置的 Health 功能，苹果宣布推出了针对医疗研究人员的 ResearchKit 开源框架。这是一向以封闭著称苹果首次推出针对医疗研...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516562#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">88 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8B%B9%E6%9E%9C/" class="gray">苹果</a> <a href="/n/tag/ResearchKit/" class="gray">ResearchKit</a> </span>
+                        发布于 <span class="gray">2015-03-10 16:54</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516560">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516560,'agree')">
+                        <span id="digg_num_516560" class="diggnum">5</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516560" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516560/" target="_blank">原生体验挡不住！JavaScript开源跨平台框架NativeScript</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_114.htm"><img src="http://images.cnitblog.com/news_topic/opensuse.jpg" class="topic_img" alt=""/></a>
+                        NativeScript 是一款使用 JavaScript 语言来构建跨平台原生移动应用的开源框架，支持 iOS、Android 和 Windows Phone。且 NativeScript 的使用没有过多繁杂的要求，只需使用自己已经掌握的 JavaScript 和 CSS 技能就能开发出真...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516560#comment" class="gray" target="_blank">评论(8)</a></span><span class="view">514 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/JavaScript/" class="gray">JavaScript</a> <a href="/n/tag/NativeScript/" class="gray">NativeScript</a> </span>
+                        发布于 <span class="gray">2015-03-10 16:27</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516559">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516559,'agree')">
+                        <span id="digg_num_516559" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516559" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516559/" target="_blank">程序员编程面试取胜的8个技巧</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_335.htm"><img src="http://images.cnitblog.com/news_topic/programmer.jpg" class="topic_img" alt=""/></a>
+                        英文原文：8 Tips To Crack A Coding Interview!IT 职位现在相当热门。程序员和软件开发人员在今年将有大量的就业机会。可是，面试成了招聘过程中的拦路虎，成为了很多程序员的噩梦。下面教你 8 个技巧，希望能有助于你成功取胜编程面试。1. 知道如何...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516559#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">363 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%A8%8B%E5%BA%8F%E5%91%98/" class="gray">程序员</a> </span>
+                        发布于 <span class="gray">2015-03-10 16:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516558">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516558,'agree')">
+                        <span id="digg_num_516558" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516558" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516558/" target="_blank">售价12万的Apple Watch谁会买？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_514.htm"><img src="http://images.cnitblog.com/news_topic/20150202130218328.png" class="topic_img" alt=""/></a>
+                        苹果在春季发布会上公布了采用 18K 金材质外壳的 Apple Watch Edition 的售价，最高达 1.7 万美元，约 12 万人民币。CSDN 参加发布会的同事 Jimmy Gan 描述，Apple Watch 上最大的技术改进，就是苹果在触摸屏交互上的全新技术 Force Touch...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516558#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">417 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Apple%20Watch/" class="gray">Apple Watch</a> </span>
+                        发布于 <span class="gray">2015-03-10 16:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516557">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516557,'agree')">
+                        <span id="digg_num_516557" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516557" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516557/" target="_blank">关于最新款MacBook你不可不知的五件事</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="http://images.cnitblog.com/news_topic/apple.png" class="topic_img" alt=""/></a>
+                        3 月 10 日消息，据 Mashable 报道，除了 Apple Watch 之外，美轮美奂的新款 12 寸 MacBook 也是今天凌晨苹果春季发布会的另一大重头戏。这款笔记本只有 13.1 毫米厚，拥有视网膜屏幕、多功能 USB-C 接口，支持 9 小时的电池续航时间。苹果在发...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516557#comment" class="gray" target="_blank">评论(4)</a></span><span class="view">468 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/MacBook/" class="gray">MacBook</a> </span>
+                        发布于 <span class="gray">2015-03-10 16:04</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516556">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516556,'agree')">
+                        <span id="digg_num_516556" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516556" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516556/" target="_blank">创业者们：请勿迷恋阿里巴巴合伙人制度</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_6.htm"><img src="http://images.cnitblog.com/news_topic/ali_logo.gif" class="topic_img" alt=""/></a>
+                        阿里巴巴上市时，马云通过所谓的阿里合伙人来控制阿里巴巴，其实根本都不是什么精湛的绝技。这只是在无可奈何下，在各种最坏的选择中，找出的相对最不坏的选择。阿里巴巴上市时，马云通过所谓的阿里合伙人来控制阿里巴巴，其实根本都不是什么精湛的绝技。这只是在无可奈何下，在各种最坏的选择中，找出的相...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516556#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">376 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/" class="gray">阿里巴巴</a> </span>
+                        发布于 <span class="gray">2015-03-10 15:59</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516555">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516555,'agree')">
+                        <span id="digg_num_516555" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516555" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516555/" target="_blank">Twitter在香港开设办公室，将广告业务带入中国</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_111.htm"><img src="http://images.cnitblog.com/news_topic/twitter.jpg" class="topic_img" alt=""/></a>
+                        英文原文：Twitter Opens Hong Kong Office To Make Money In China在中国大陆，Twitter 是&ldquo;不存在的网站&rdquo;，但在那里依然有着广大的商机。今天，Twitter 开设了他们的香港办公室，以帮助中国公司...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516555#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">86 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Twitter/" class="gray">Twitter</a> </span>
+                        发布于 <span class="gray">2015-03-10 15:54</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516554">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516554,'agree')">
+                        <span id="digg_num_516554" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516554" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516554/" target="_blank">不仅仅有时尚，苹果的技术创新</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="http://images.cnitblog.com/news_topic/apple.png" class="topic_img" alt=""/></a>
+                        2015 年 3 月 10 日凌晨，苹果春季产品发布会在旧金山芳草地艺术中心举行。这次发布会的重点是 Apple Watch，因为创新性不是很足，而定价又比较高昂，这个产品被众多中国网友吐槽。不过吐槽归吐槽，以苹果品牌现在的影响力，Apple Watch 虽然难以像 iPhone 那...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516554#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">198 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/MacBook/" class="gray">MacBook</a> </span>
+                        发布于 <span class="gray">2015-03-10 15:51</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516553">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516553,'agree')">
+                        <span id="digg_num_516553" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516553" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516553/" target="_blank">淘宝的幸福生活要到头了吗？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_87.htm"><img src="http://images.cnitblog.com/news_topic/taobao.gif" class="topic_img" alt=""/></a>
+                        文/郑力帅今天和几个年轻人聊天，差不多一半的 90 后都不在淘宝买东西，我就很奇怪，追问后发现主要原因是他们追求商品品质，时间成本高，其他的专业电商可以满足其购物需求。于是我就看看过去自己的淘宝购物记录和其他的电商购物记录，查了些资料，突然发现淘宝的黄金时代即将结束。淘宝的出...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516553#comment" class="gray" target="_blank">评论(7)</a></span><span class="view">732 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%B7%98%E5%AE%9D/" class="gray">淘宝</a> </span>
+                        发布于 <span class="gray">2015-03-10 15:45</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516552">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516552,'agree')">
+                        <span id="digg_num_516552" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516552" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516552/" target="_blank">Ubuntu手机操作系统：应用与数据分离</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_42.htm"><img src="http://images.cnitblog.com/news_topic/ubuntu.png" class="topic_img" alt=""/></a>
+                        英文原文：New Ubuntu Phone Separates the App from the DataCanonical 公司和 Ubuntu Linux 操作系统创始人马克·沙特尔沃斯（Mark Shuttleworth）表示：搭载开源 Ubuntu 系统的手机将...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516552#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">308 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Ubuntu/" class="gray">Ubuntu</a> </span>
+                        发布于 <span class="gray">2015-03-10 15:39</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516551">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516551,'agree')">
+                        <span id="digg_num_516551" class="diggnum">8</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516551" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516551/" target="_blank">在线编程学习的一点儿思考</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_335.htm"><img src="http://images.cnitblog.com/news_topic/programmer.jpg" class="topic_img" alt=""/></a>
+                        最近一年来与编程相关的学习领域异常火爆，奥巴马在美国大力推动全民编程、一小时编程活动成为首个会编程的美国总统，英国开始在中小学实行计算机编程训练的项目。在我们国家编程学习的进展也十分迅猛，有教育机构开始推动 2015 编程年活动，得到广泛支持。虽然学习编程很火爆，熟悉编程的人都知道，...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516551#comment" class="gray" target="_blank">评论(3)</a></span><span class="view">304 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%B1%87%E6%99%BA%E7%BD%91/" class="gray">汇智网</a> <a href="/n/tag/%E7%A8%8B%E5%BA%8F%E5%91%98/" class="gray">程序员</a> </span>
+                        发布于 <span class="gray">2015-03-10 15:22</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516550">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516550,'agree')">
+                        <span id="digg_num_516550" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516550" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516550/" target="_blank">从一名打工者蜕变成一名企业家的五步曲</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_367.htm"><img src="http://images.cnitblog.com/news_topic/startup.jpg" class="topic_img" alt=""/></a>
+                        英文原文：Infographic: How to Make the Leap from Employee to Entrepreneur无数打工者每天皆梦想能于某天开创自己的公司。其总觉得自己拥有着进入一个领域并打造出一个成功的事业所需的正确的技能或者正确的创业点子。但，这些人到现在...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516550#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">275 人浏览</span>
+                        
+                        发布于 <span class="gray">2015-03-10 15:19</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516549">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516549,'agree')">
+                        <span id="digg_num_516549" class="diggnum">12</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516549" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516549/" target="_blank">论大公司的通病</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_5.htm"><img src="http://images.cnitblog.com/news_topic/baidu.jpg" class="topic_img" alt=""/></a>
+                        文/Fenng兴之所至的写了一下我对 BAT 三家公司的看法，有位大佬留言说，不如写一下大公司的通病。这倒是提醒了我，很好的话题，任何大公司都有各种各样的独特的问题，也有些问题有共性。我列几点跟大家探讨。一. 过度管理绝大多数大型公司的管理者的管理工作都是过度的，这话不算...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516549#comment" class="gray" target="_blank">评论(11)</a></span><span class="view">1307 人浏览</span>
+                        
+                        发布于 <span class="gray">2015-03-10 15:04</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516548">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516548,'agree')">
+                        <span id="digg_num_516548" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516548" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516548/" target="_blank">Apple Watch为什么那么贵？材质行业独创</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_514.htm"><img src="http://images.cnitblog.com/news_topic/20150202130218328.png" class="topic_img" alt=""/></a>
+                        从苹果公布的价格可以看出，决定AppleWatch售价的很大程度与表壳有关，与表带的关系不大。比如说，运动系列的最高售价2988元人民币，配的是铝金属的表壳和运动型的表带；同样尺寸的标准版售价4588元人民币...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516548#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">540 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Apple%20Watch/" class="gray">Apple Watch</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:42</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516547">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516547,'agree')">
+                        <span id="digg_num_516547" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516547" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516547/" target="_blank">苹果再次颠覆行业标准：新一代MacBook整机只有一个接口</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="http://images.cnitblog.com/news_topic/apple.png" class="topic_img" alt=""/></a>
+                        英文原文：Apple Declares Death To All The Ports苹果刚刚推出了新一代 MacBook，它更纤薄、更小巧，让 MacBook Air 看上去就像是 2002 年的戴尔 Inspiron。不过，新一代 MacBook 采用 USB-C 接口，而这也是整...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516547#comment" class="gray" target="_blank">评论(6)</a></span><span class="view">716 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8B%B9%E6%9E%9C/" class="gray">苹果</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:37</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516546">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516546,'agree')">
+                        <span id="digg_num_516546" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516546" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516546/" target="_blank">京东上线东乐计划 音乐+众筹挺正版原创</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_228.htm"><img src="http://images.cnitblog.com/news_topic/logo-2013.png" class="topic_img" alt=""/></a>
+                        2015 年 3 月，京东携手腾讯视频将 2015 年&ldquo;东乐计划&rdquo;全新上线。该计划通过&ldquo;众筹模式&rdquo;开启音乐、电商、金融的跨界新玩法，力挺正版音乐，为中国原创音乐保驾护航。据悉，黄龄成为今年该计划的首位众筹艺人。&ldquo;东乐计划&r...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516546#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">187 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%AC%E4%B8%9C/" class="gray">京东</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:37</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516545">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516545,'agree')">
+                        <span id="digg_num_516545" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516545" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516545/" target="_blank">买不买Apple Watch，iOS 8.2都准备了一个无法删除的APP</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="http://images.cnitblog.com/news_topic/apple.png" class="topic_img" alt=""/></a>
+                        英文原文：PSA: iOS 8.2 Comes With An Apple Watch App You Can’t Delete终于，我们迎来了 iOS 8 的第二个重大更新，iOS 8.2。它杀掉了很多 Bug！它更稳定！它（也许）更耗电（就像之前每一版升级都会...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516545#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">673 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/iOS%208.2/" class="gray">iOS 8.2</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:24</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516544">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516544,'agree')">
+                        <span id="digg_num_516544" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516544" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516544/" target="_blank">苹果表诞生后，国外科技段子手们也是疯了</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_514.htm"><img src="http://images.cnitblog.com/news_topic/20150202130218328.png" class="topic_img" alt=""/></a>
+                        Duang 的余热还未消，裙子的颜色还没整明白，今天早上一睁眼，各大社交网站已经被 AppleWatch 惨无人道的攻陷了。这潮流太快，我不敢看……这一次“一年二度的苹果盛会”简直是国内外科技段子手的期中考试。除了看国内小伙...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516544#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">867 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Apple%20Watch/" class="gray">Apple Watch</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:17</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516543">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516543,'agree')">
+                        <span id="digg_num_516543" class="diggnum">3</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516543" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516543/" target="_blank">工商总局回应淘宝卖假货：可罚到倾家荡产</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_87.htm"><img src="http://images.cnitblog.com/news_topic/taobao.gif" class="topic_img" alt=""/></a>
+                        昨天上午，十二届全国人大三次会议举行记者会，国家工商行政管理总局局长张茅就商事制度改革的相关问题回答中外记者的提问。据悉，这是工商总局第一次在全国两会期间参加记者会，张茅回答了现场记者的 13 个问题。在谈及目前最火热的网购话题时，张茅表示，第三方交易平台要对网店切实负起责任，并要增加网络售假的...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516543#comment" class="gray" target="_blank">评论(3)</a></span><span class="view">694 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%B7%98%E5%AE%9D/" class="gray">淘宝</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:10</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516542">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516542,'agree')">
+                        <span id="digg_num_516542" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516542" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516542/" target="_blank">程序员拍卖平台100offer获两千万A轮融资，先确定薪资再面试</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_335.htm"><img src="http://images.cnitblog.com/news_topic/programmer.jpg" class="topic_img" alt=""/></a>
+                        3 月 10 日上午消息，程序员求职服务商 100offer (100offer.com)宣布获得 2000 万元A轮融资，对公司的估值达到千万美元级别。100offer 于 2014 年 7 月 12 日上线，与传统招聘网站海投简历的方式相反，100offer 将经过筛选的候选人展...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516542#comment" class="gray" target="_blank">评论(5)</a></span><span class="view">657 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/100offer/" class="gray">100offer</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:09</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516541">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516541,'agree')">
+                        <span id="digg_num_516541" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516541" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516541/" target="_blank">戴上Apple Watch，你能用上哪些中国App？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_503.htm"><img src="http://images.cnitblog.com/news_topic/20150127124457378.png" class="topic_img" alt=""/></a>
+                        昨天的发布会对 AppleWatch 进行了真机演示，展示了多个 AppleWatch 应用，包含了 Facebook、Uber、Instgram 等等。同时，我们也看到了一大批中国应用的现身。究竟什么样的中国应用会入局？哪些功能会被留下？雷锋网第一时间采访了这些...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516541#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">370 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%BE%8E%E6%8B%8D/" class="gray">美拍</a> <a href="/n/tag/%E6%94%AF%E4%BB%98%E5%AE%9D/" class="gray">支付宝</a> <a href="/n/tag/%E6%90%BA%E7%A8%8B/" class="gray">携程</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:06</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516540">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516540,'agree')">
+                        <span id="digg_num_516540" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516540" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516540/" target="_blank">创业时，我们能从喜剧演员身上学到什么</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_367.htm"><img src="http://images.cnitblog.com/news_topic/startup.jpg" class="topic_img" alt=""/></a>
+                        英文原文：What a Comedian Can Teach You About Running a Business当你听到「喜剧演员」这个词的时候，你的脑海里会浮现什么？周星驰？黄渤？喜剧演员大多是冒险家，即使面对失败也会从容不迫。他们不知疲倦地在不断完善他们的表演。他们...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516540#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">96 人浏览</span>
+                        
+                        发布于 <span class="gray">2015-03-10 14:02</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516539">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516539,'agree')">
+                        <span id="digg_num_516539" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516539" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516539/" target="_blank">老牌科技博客Gigaom宣布关闭，因资金原因</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        早上起来像平常一样刷科技网站，却看到科技网站 Gigaom 的主站上发布了这样一段声明：声明表示，近期 Gigaom 已没有足够的资金支付给我们的债权人。因此，债权方将接手公司所有资产。Gigaom 公司的运营已经停止，而债权人会如何处理公司资产目前还没有结论。Gigaom 暂时还没...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516539#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">125 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Gigaom/" class="gray">Gigaom</a> </span>
+                        发布于 <span class="gray">2015-03-10 14:01</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516538">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516538,'agree')">
+                        <span id="digg_num_516538" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516538" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516538/" target="_blank">苏宁日本子公司公开发行1亿新股：融资16亿元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_414.htm"><img src="http://images.cnitblog.com/news_topic/苏宁易购.png" class="topic_img" alt=""/></a>
+                        以周一收盘价计算，LAOX 此次公开募集的资金规模约为 314 亿日圆（约合 16 亿人民币）3 月 10 日消息，据《路透社》报道，苏宁云商今天宣布了日本子公司 LAOX 一项规模为 1 亿股新股的公开发行计划。苏宁云商称，LAOX 计划公募发行新股 1 亿股，发行券商 S...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516538#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">270 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8B%8F%E5%AE%81/" class="gray">苏宁</a> </span>
+                        发布于 <span class="gray">2015-03-10 12:34</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_516537">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(516537,'agree')">
+                        <span id="digg_num_516537" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_516537" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/516537/" target="_blank">奇虎Q4净利大增3倍背后：高管奖金缩水至少一半</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_133.htm"><img src="http://images.cnitblog.com/news_topic/ec6c7e9e.jpg" class="topic_img" alt=""/></a>
+                        假设奇虎支付高级可转换债券利息的开支维持不变，则去年第四季度股权奖励开支相比 2013 年缩水了 80%3 月 10 日消息，奇虎 360 今早发布了一份&ldquo;净利润同比大增 3 倍多&rdquo;的 2014 年第四业绩单，净利同比增长规模翻番除了得益于营收大涨近一倍外，还有赖...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="http://home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/516537#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">676 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A5%87%E8%99%8E/" class="gray">奇虎</a> </span>
+                        发布于 <span class="gray">2015-03-10 12:24</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+    <div id="pages">
+        <div id='pager'><span class="current">1</span> <a href="/n/page/2/">2</a><a href="/n/page/3/">3</a><a href="/n/page/4/">4</a><a href="/n/page/5/">5</a><a href="/n/page/6/">6</a><a href="/n/page/7/">7</a><a href="/n/page/8/">8</a><a href="/n/page/9/">9</a><a href="/n/page/10/">10</a><a href="/n/page/11/">11</a>··· <a href="/n/page/4941/">4941</a><a href="/n/page/2/">Next &gt;</a></div>
+    </div>
+    <div class="friendlink">
+        友情链接:
+        <a href="http://www.headin.cn" target="_blank">海丁网</a>
+        <a href="http://leiphone.com/" target="_blank">雷锋网</a><a href="http://www.sxsoft.com" target="_blank">软件项目交易网</a><a href="http://www.hjbook.net" target="_blank">沪江网店</a><a href="http://job.cnblogs.com" target="_blank" title="程序员招聘">程序员招聘</a>
+        <a href="http://www.blogjava.net" target="_blank">Java博客</a><a href="http://www.020job.com" target="_blank">广州人才网</a>
+    </div>
+</div>
+<div id="sideright" style="margin-top:10px;">
+    <span id="lbAuditTips" style="display:none;"></span>
+    <div class="news_home_navlink">
+        <div id="rss_sub_top" class="rss_sub">
+            <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="http://static.cnblogs.com/images/icon_rss.gif" alt="RSS订阅" /></a>
+        </div>
+        <div style="line-height:30px;">
+            &gt; <a href="/n/publish" class="big redlink">投递新闻</a><br />
+            &gt; <a href="/default.aspx?d1=2015/03/10" class="big">今日新闻</a><br />
+            &gt; <a href="/default.aspx?d1=2015/03/09&d2=2015/03/10" class="big">昨日新闻</a><br />
+            &gt; <a href="/n/topiclist" class="big">新闻主题</a><br />
+            &gt; <a href="http://home.cnblogs.com/news/" class="big">新闻列表</a><br />
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    <br />
+    <div id="side_right_search">
+        <input type="text" id="google_search_q" size="27" class="side_right_search_q" onkeydown="return google_search_enter(event);" />
+        <input type="submit" name="sa" value="搜索新闻" class="side_right_search_sa" onclick="return google_search();" />
+    </div>
+    <div class="side_block">
+        <div class="a4content">
+            <!-- news_E2 -->
+            <div id='div-gpt-ad-1346331527896-1' style='width:300px; height:250px;'>
+                <script type='text/javascript'>
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1346331527896-1'); });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="side_block" id="cate_news">
+        <h3 class="title_yellow">
+            新闻类别
+        </h3>
+        <div class="indent" id="NewsCategoryId">
+            
+        </div>
+    </div>
+    <div id="HotNews1_panelToday">
+        <div class="side_block" id="last_news">
+            <h3 class="title_blue">
+                今日新闻排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotNewsId">
+                
+            </ul>
+        </div>
+    </div>
+    <div class="side_block">
+        <h3 class="title_yellow">
+            编辑推荐新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecommendNewsId">
+            
+        </ul>
+    </div>
+    <div id="HotNews1_panelDiggTop">
+        <div class="side_block" id="Div1">
+            <h3 class="title_green">
+                24小时推荐排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotByDiggCountId">
+                
+            </ul>
+        </div>
+    </div>
+    <div class="side_block" id="hot_news">
+        <h3 class="title_red">
+            热门IT新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecentHotNewsId">
+            
+        </ul>
+    </div>
+    <div class="side_block">
+        <!-- news_E3 -->
+        <div id='div-gpt-ad-1346331527896-2' style='width:300px; height:250px;'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1346331527896-2'); });
+            </script>
+        </div>
+    </div>
+    <div class="side_block">
+        <h3 class="title_green">
+            最新评论
+        </h3>
+        <ul class="block_list" id="NewsIndexCommentsId">
+            
+        </ul>
+        <a href="/Comment.aspx">
+            <img src="/images/more_comment.gif" title="更多最新评论" style="float: right; margin: 7px;" alt="" />
+        </a>
+        <div style="clear: both;">
+        </div>
+    </div>
+    <a name="more"></a>
+    <div id="rss_sub_bottom" class="rss_sub">
+        <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="http://static.cnblogs.com/images/icon_rss_news.gif" alt="RSS订阅" /></a>
+        <a target="_blank" href="https://www.google.com/reader/view/feed/http://feed.cnblogs.com/news/rss" title="订阅到Google阅读器"><img src="http://static.cnblogs.com/images/icon_sub_google.gif" alt="GoogleReader订阅" /></a>
+        <a href="http://news.cnblogs.com/m" rel="nofollow" title="博客园新闻频道手机版"><img src="/images/ico_ing_cellphone.gif" alt="手机版" /></a>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        LoadNewsCategory("NewsCategoryId",11,0);
+        //新闻列表-右侧编辑推荐新闻
+        CommonLoadNews("/NewsAjax/GetRecommendNews", "RecommendNewsId", 7);
+        //新闻列表-右侧今日新闻排行
+        CommonLoadNews("/NewsAjax/GetHotNews", "HotNewsId", 10);
+        //新闻列表-右侧24小时推荐排行
+        CommonLoadNews("/NewsAjax/GetHotByDiggCount", "HotByDiggCountId", 7);
+        //新闻列表-右侧热门IT新闻
+        CommonLoadNews("/NewsAjax/GetRecentHotNews", "RecentHotNewsId", 10);
+        //新闻列表-右侧最新评论
+        LoadSideComments("NewsIndexCommentsId", 30);
+        CheckAudit();
+        LoadIndexSideInfo();
+    });
+</script>
+        <div class="clear">
+        </div>
+        <div id="goTop">
+            <a href="#top"><img src="/images/ico_top.gif" alt="回到页首" title="回到页首 Top" /></a>
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="http://www.cnblogs.com/AboutUS.aspx">关于博客园</a><a href="http://www.cnblogs.com/SiteMap.aspx">站点地图</a><a href="http://www.cnblogs.com/ContactUs.aspx">联系我们</a><a href="http://www.cnblogs.com/ad.aspx">广告服务</a><span>&copy;2004-2014</span><a href="http://www.cnblogs.com">博客园</a>合作伙伴：<a href="http://www.hujiang.com" target="_blank">沪江网</a>
+                <script type="text/javascript">
+                    var _gaq = _gaq || [];
+                    _gaq.push(['_setAccount', 'UA-476124-8']);
+                    _gaq.push(['_trackPageview']);
+                    (function () {
+                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                    })();
+                </script>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
