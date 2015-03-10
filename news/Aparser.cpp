@@ -31,6 +31,19 @@ class ATag{
 			str+="</a>";
 			return str;
 		}
+		string output(){
+			string str="\"http://news.cnblogs.com";
+			for(list<pair<string,string> >::iterator it=Attr.begin();it!=Attr.end();++it){
+				if(it->first=="href"){
+					str+=(it->second).substr(1,it->second.size()-2);//remove the first and last \"
+					break;
+				}
+			}
+			str+="\" => \"";
+			str+=value;
+			str+="\",";
+			return str;
+		}
 		bool blank(char c){
 			return c==' '||c=='\t'||c=='\n';
 		}
@@ -110,9 +123,14 @@ class ATag{
 };
 int main(){
 	string line;
+	string before="<?php\n"	
+	"	$template=\'<p><a href=\"%s\" target=\"_blank\" class=\"left_menu\">%s</a></p>\';\n"
+	"	$pairs=array(\n";
+	cout<<before;
 	while(getline(cin,line)){
 		ATag a;
 		a.parse(line);
-		cout<<a.toString()<<'\n';
+		cout<<a.output()<<'\n';
 	}
+	cout<<");\n	foreach($pairs as $key=>$val){\n		printf($template,$key,$val);\n	}\n?>\n";
 }

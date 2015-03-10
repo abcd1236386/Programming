@@ -1,0 +1,38 @@
+<?php
+	$template='<p><a href="%s" target="_blank" class="left_menu">%s</a></p>';
+	$pairs=array(
+"http://news.cnblogs.com/n/516588/" => "LG的 2015：一弯再弯，继续押宝OLED",
+"http://news.cnblogs.com/n/516587/" => "腾讯精品课全新改版 打造个性化学习平台",
+"http://news.cnblogs.com/n/516585/" => "奥迪测试无人驾驶运输，主角却是一款机器人",
+"http://news.cnblogs.com/n/516584/" => "美国政府将迅雷从“恶意市场名单”中删除",
+"http://news.cnblogs.com/n/516583/" => "赶集CEO杨浩涌：上市工作已启动 无具体时间表",
+"http://news.cnblogs.com/n/516582/" => "我想雇佣谁？",
+"http://news.cnblogs.com/n/516581/" => "苹果笔记本才是核心，手表不过是陪衬",
+"http://news.cnblogs.com/n/516580/" => "创建自己的游戏工作室的72个建议",
+"http://news.cnblogs.com/n/516579/" => "DynamoDB Provisioning：凭什么让成本节省76%？",
+"http://news.cnblogs.com/n/516578/" => "关于Apple Watch，听听开发了两个月Watch App的工程师怎么说",
+"http://news.cnblogs.com/n/516577/" => "微信限制微信群规模",
+"http://news.cnblogs.com/n/516576/" => "腾讯动漫业务独立 马化腾要做陈天桥未完成的事",
+"http://news.cnblogs.com/n/516575/" => "警惕，“C轮死”！告诉你如何应对",
+"http://news.cnblogs.com/n/516574/" => "“果壳电子”高管吐槽Apple Watch：丑到爆",
+"http://news.cnblogs.com/n/516573/" => "苹果商标长啥样？你可能真的想不起来",
+"http://news.cnblogs.com/n/516563/" => "看看国际一线品牌化妆品网站长成什么样",
+"http://news.cnblogs.com/n/516571/" => "索尼国行版PS4将于3月20日在中国大陆发售",
+"http://news.cnblogs.com/n/516570/" => "一张图看懂苹果手表PK四大对手赢在哪里",
+"http://news.cnblogs.com/n/516569/" => "高通计划回购150亿美元股票 分红提高14%",
+"http://news.cnblogs.com/n/516568/" => "从GitHub上看开源许可证多舛的命运",
+"http://news.cnblogs.com/n/516567/" => "酷派360合资公司将推新手机ROM",
+"http://news.cnblogs.com/n/516566/" => "又一家IT企业逃离！APM厂商Compuware败退中国",
+"http://news.cnblogs.com/n/516565/" => "把这20条从你的简历里删掉",
+"http://news.cnblogs.com/n/516564/" => "贾跃亭：乐视今年推全员持股 超级手机很快发布",
+"http://news.cnblogs.com/n/516561/" => "为了给失聪的小伙子一个惊喜，整个小镇的居民都学会了手语",
+"http://news.cnblogs.com/n/516562/" => "苹果也开源，看看医疗人员如何通过ResearchKit收集用户的数据",
+"http://news.cnblogs.com/n/516560/" => "原生体验挡不住！JavaScript开源跨平台框架NativeScript",
+"http://news.cnblogs.com/n/516559/" => "程序员编程面试取胜的8个技巧",
+"http://news.cnblogs.com/n/516558/" => "售价12万的Apple Watch谁会买？",
+"http://news.cnblogs.com/n/516557/" => "关于最新款MacBook你不可不知的五件事",
+);
+	foreach($pairs as $key=>$val){
+		printf($template,$key,$val);
+	}
+?>
